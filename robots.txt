@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-0bbkdp.indocuansite.space/sitemap.xml
